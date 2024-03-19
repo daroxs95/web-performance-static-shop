@@ -11,3 +11,4 @@
   of `main.js` and `contact.js` is already deferred by being builded and optimized by vite
 - Add `loading="lazy"` to all images not intended to be on page landing view (for example the first carousel image and
   the two special offer ones in home page are set to `eager`)
+- Use owl-carousel from cdn
